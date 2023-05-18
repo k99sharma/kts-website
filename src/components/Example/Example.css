@@ -1,0 +1,10 @@
+/*
+    Use BEM convention
+    https://getbem.com/naming/
+
+    <div className="button">
+        <div className="button__text">
+            Shutdown
+        </div>
+    </div>
+*/
